@@ -10,6 +10,6 @@ Do you need help: https://discord.gg/7TugNbGwdG
 
 Version: Portuguese
 
-Esse Framework não é meu, ele pertence ao imagicTheCat, apenas modifiquei ele para deixar o mais claro e limpo possível, para funcionar é só colocar na sua base, depois modificar base.lua que está em cfg/base.lua você terá que ter oxmysql instalado em sua base é obrigatório. Em termos de operação de garagem, você pode configurar se deseja retirar veículos de nation_garages ou de uma tabela criada manualmente por você. Pode haver bugs no framework pois é uma modificação minha, se você quiser o original acesse o github do ImagicTheCat.
+Esse Framework não é meu, ele pertence ao imagicTheCat, apenas modifiquei ele para deixar o mais clear e limpo possível, para funcionar é só colocar na sua base, depois modificar base.lua que está em cfg/base.lua você terá que ter oxmysql instalado em sua base é obrigatório. Em termos de operação de garagem, você pode configurar se deseja retirar veículos de nation_garages ou de uma tabela criada manualmente por você. Pode haver bugs no framework pois é uma modificação minha, se você quiser o original acesse o github do ImagicTheCat.
 
 Você ainda precisa de ajuda entre no discord:  https://discord.gg/7TugNbGwdG - e abra um ticket
